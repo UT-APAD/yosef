@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp4</string>
+    <string name="selectImage_button">Select Image</string>
+    <string name="submit_button">Submit</string>
+</resources>
