@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="server_client_id">1027992622124-bv67co8t93l9tb2vi3ipe4fvmdru59va.apps.googleusercontent.com</string>
+
+    <string name="sign_out_button">Sign Out</string>
+    <string name="signinbutton_textView">Login</string>
+</resources>
